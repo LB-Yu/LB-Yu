@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hi, I'm LB-Yu</strong> <br>
+  <strong>Hi, I'm Liebing</strong> <br>
 I am currently mainly engaged in research and development related to distributed data <br>
 storage and computing systems, focusing on how to build the storage, query and computing <br>
 capabilities of geographic spatial-temporal big data on top of existing distributed components.
@@ -26,5 +26,5 @@ capabilities of geographic spatial-temporal big data on top of existing distribu
 ![LB-Yu's github stats](https://github-readme-stats.vercel.app/api?username=LB-Yu&show_icons=true)
 
 <p align="center">
-  <strong>For more information you can refer to my <a href="https://lb-yu.github.io/">homepage</a></strong>  
+  <strong>For more information you can refer to my <a href="https://liebing.org.cn/">homepage</a></strong>  
 </p>
